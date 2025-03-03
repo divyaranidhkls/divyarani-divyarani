@@ -1,4 +1,4 @@
-Hello World, I'm Divya Rani 👋🏽
+#**Hello World, I'm Divya Rani 👋🏽**
 
 A self-taught Full-Stack Mobile Developer.
 
