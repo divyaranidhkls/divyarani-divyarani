@@ -1,9 +1,13 @@
 Hello World, I'm Divya Rani 👋🏽
+
 A self-taught Full-Stack Mobile Developer.
 
 I develop mobile applications in Flutter, React Native, SwiftUI and Compose.
+
 I develop web applications in Next.js and Svelte.
+
 I develop backend applications in Node.js and Sprint Boot.
+
 Experience
 
 Mobile
