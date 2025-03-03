@@ -1,4 +1,4 @@
-#**Hello World, I'm Divya Rani 👋🏽**
+#** Hello World, I'm Divya Rani 👋🏽 **
 
 A self-taught Full-Stack Mobile Developer.
 
@@ -13,16 +13,21 @@ Experience
 Mobile
 
 Flutter (Dart) • ⭐️
+
 SwiftUI (Swift) • ⭐️
+
 React Native (JS/TS) • ⭐️
+
 Compose (Kotlin) • ⭐️
 
 Web
 
 Next.js (JS/TS) • ⭐️
+
 Svelte (JS/TS) • ⭐️
 
 Back End
 
 Node.js (JS/TS) • ⭐️
+
 Sprint Boot (Java/Kotlin) • ⭐️
