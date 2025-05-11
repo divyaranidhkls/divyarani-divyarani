@@ -12,23 +12,20 @@ Experience
 
 Mobile
 
-Flutter (Dart) • ⭐️
 
-SwiftUI (Swift) • ⭐️
-
-React Native (JS/TS) • ⭐️
+React Native (JS/TS) • ⭐️⭐️⭐️
 
 Compose (Kotlin) • ⭐️
 
 Web
 
-Next.js (JS/TS) • ⭐️
+Next.js (JS/TS) • ⭐️⭐️⭐️
 
 Svelte (JS/TS) • ⭐️
 
-Back End
+Back End • ⭐️⭐️⭐️⭐️
 
-Node.js (JS/TS) • ⭐️
+Node.js (JS/TS) • ⭐️⭐️⭐️
 
 Sprint Boot (Java/Kotlin) • ⭐️
 
